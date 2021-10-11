@@ -1,0 +1,145 @@
+{
+  "showLegend": true,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "EnableOrDisablePopup": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "17c644f0dcb-layer-41": {
+      "display": true,
+      "group": "Wave Power"
+    },
+    "17c0713fe47-layer-43": {
+      "display": true,
+      "group": "Sea Level Rise 2100"
+    },
+    "17c0713e68a-layer-42": {
+      "display": true,
+      "group": "Sea Level Rise 2050"
+    },
+    "17c0713c581-layer-41": {
+      "display": true,
+      "group": "Sea Level Rise 2030"
+    },
+    "17b2da16264-layer-43": {
+      "display": true,
+      "group": "Distance to Coastline"
+    },
+    "17b2da2699a-layer-44": {
+      "display": true,
+      "group": "Distance to Coastline"
+    },
+    "17b2d9b5ab7-layer-41": {
+      "display": true,
+      "group": "Distance to Domestic Wells (m)"
+    },
+    "17b2da05274-layer-42": {
+      "display": true,
+      "group": "Distance to Municipal Wells (m)"
+    },
+    "17b7f45dc65-layer-41": {
+      "display": true,
+      "group": "Coastline Visitation"
+    },
+    "17b372d998a-layer-36": {
+      "display": true,
+      "group": "Coastline Visitation"
+    },
+    "17b3733d36b-layer-38": {
+      "display": true,
+      "group": "Rainfall"
+    },
+    "17b3735a979-layer-39": {
+      "display": true,
+      "group": "Depth to Water"
+    },
+    "17b373906ca-layer-40": {
+      "display": true,
+      "group": "Cesspool Density"
+    },
+    "17b2da5ac7e-layer-46": {
+      "display": true,
+      "group": "Swimming Beaches"
+    },
+    "17b2da33209-layer-45": {
+      "display": true,
+      "group": "Swimming Beaches"
+    },
+    "17b2dadcc91-layer-50": {
+      "display": true,
+      "group": "Reef Fish Priority"
+    },
+    "17b2dacb43b-layer-49": {
+      "display": true,
+      "group": "Reef Fish Priority"
+    },
+    "17b2da8274e-layer-47": {
+      "display": true,
+      "group": "Coral Reef Priority"
+    },
+    "17b2daa6180-layer-48": {
+      "display": true,
+      "group": "Coral Reef Priority"
+    },
+    "17b2dbc743f-layer-53": {
+      "display": true,
+      "group": "Distance to Streams & Wetlands (m)"
+    },
+    "17b2dbbc9a6-layer-52": {
+      "display": true,
+      "group": "Distance to Streams & Wetlands (m)"
+    },
+    "17b2db77379-layer-51": {
+      "display": true,
+      "group": "Distance to Streams & Wetlands (m)"
+    },
+    "17b2dc121b9-layer-55": {
+      "display": true,
+      "group": "Well Capture Zones"
+    },
+    "17b2dbdbe17-layer-54": {
+      "display": true,
+      "group": "Well Capture Zones"
+    },
+    "17b2dcd7958-layer-59": {
+      "display": true,
+      "group": "Sea Level Rise 2100"
+    },
+    "17b2dca93fb-layer-56": {
+      "display": true,
+      "group": "Sea Level Rise 2050"
+    },
+    "17b2dc28692-layer-56": {
+      "display": true,
+      "group": "Sea Level Rise 2030"
+    },
+    "17b36497f0a-layer-66": {
+      "display": true,
+      "group": "Soil Suitability Rank"
+    },
+    "17bbc4f5479-layer-40": {
+      "display": true,
+      "group": "Soil Suitability Rank"
+    },
+    "17bbc4455f6-layer-39": {
+      "display": true,
+      "group": "Soil Suitability Rank"
+    },
+    "17bbc311cfc-layer-42": {
+      "display": true,
+      "group": "Soil Suitability Rank"
+    },
+    "17b364a1a08-layer-68": {
+      "display": true,
+      "group": "Soil Suitability Rank"
+    },
+    "17b365c0baf-layer-35": {
+      "display": true,
+      "group": "Groundwater Flowpath"
+    }
+  }
+}
